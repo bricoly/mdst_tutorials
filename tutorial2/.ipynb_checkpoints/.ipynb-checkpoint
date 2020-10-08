@@ -4137,7 +4137,7 @@
     "# I know that you want more calories for bulking season but whatever this is MDST, not Michigan Muscle Club okay\n",
     "starbucks[\"Protein/Calories\"] = starbucks[\"Protein (g)\"] / starbucks[\"Calories\"]\n",
     "starbucks[starbucks[\"Protein/Calories\"] == starbucks[\"Protein/Calories\"].max()]\n",
-    "#renee should drink Grande/Venti brewed coffee because they have the highest protein-to-calorie ratio."
+    "#Renee should drink Grande/Venti brewed coffee because they have the highest protein-to-calorie ratio."
    ]
   },
   {
